@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11622fb1d0e058648b64042081fa90f1, type: 3}
+  m_Name: B3. The Crossroad of Life
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: e570df1728714044fbc6ef55fb57200d, type: 2}
+  - {fileID: 11400000, guid: a5260741de83a044c95034c6e81d66dd, type: 2}
+  storyText: 'One of the creatures seems to have sensed you! There''s still around
+    50 meters between you two, so you might be safe but you have to think fast!
+
+    
+
+    Damn,
+    this is not good at all. It''s hungry for blood. And that cliff does seem deadly.
+    The hell do I do now?!
+
+    
+
+    What should I do?
+
+    1. Head towards the
+    cliff that''s between you and the beast. You can jump into the water hoping to
+    survive the jump.
+
+    2. Fake a charge at the thing and confuse it by sprinting
+    away right before hitting it.'

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11622fb1d0e058648b64042081fa90f1, type: 3}
+  m_Name: A4. Now or Never
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 0c296ce902dcb09479c573a70c43b6ac, type: 2}
+  - {fileID: 11400000, guid: a5260741de83a044c95034c6e81d66dd, type: 2}
+  storyText: 'Whew, that was close! You may have heard something silently crack a
+    fallen tree branch near the tent you just fled. That''''s a good sign as long
+    as you don''t stop moving. But you gotta be quiet!
+
+    
+
+    That was too
+    much for me to handle! It seems like this road splints into two. I can already
+    see the shore and that would be a great spot to wait for help. Or at least hope
+    build a shelter and cook a fish or two.
+
+    
+
+    What should I do?
+
+    1.
+    Choose the longer but safer route.
+
+    2. Go for the quick but not so safe
+    road that is overgrown by the Forest. It''s fine, the shore''s around the corner
+    anyways!'

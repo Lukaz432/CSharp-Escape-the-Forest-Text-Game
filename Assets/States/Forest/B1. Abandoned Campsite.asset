@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11622fb1d0e058648b64042081fa90f1, type: 3}
+  m_Name: B1. Abandoned Campsite
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 936b005eb9ee50a45ac3d26ff7478758, type: 2}
+  - {fileID: 11400000, guid: fb128115492b6e141b668cc3f8f98e3c, type: 2}
+  storyText: "After running for a bit you find yourself surrounded by what appears
+    to be an abandoned campsite. Even though the stone fireplace doesn't seem to
+    be in full swing, the smoke can be clearly seen even from a distance. You feel
+    tired and hungry. \r\n\r\nDon't think I can keep pace with running this fast
+    soon.\r\nThe tents must have something of value left in them!\r\n\r\nWhat should
+    I do?\r\n1. Keep running further before they get to me.\r\n2. Quickly search
+    one of the tents for any useful items while I have the lead."

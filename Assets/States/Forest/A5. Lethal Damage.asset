@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11622fb1d0e058648b64042081fa90f1, type: 3}
+  m_Name: A5. Lethal Damage
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: e570df1728714044fbc6ef55fb57200d, type: 2}
+  - {fileID: 11400000, guid: e570df1728714044fbc6ef55fb57200d, type: 2}
+  storyText: 'The fruit tastes amazing. It has a weird flavor though. You suddenly
+    fall to your knees. Everything starts shaking. You''re not sure what to do next
+    as the pain on your belly just won''t stop!
+
+    
+
+    Damn fruit! Am I dying?!
+
+    
+
+    What
+    should I do?
+
+    1. Attempt to force yourself to vomit  the fruit out .
+
+    2.
+    Ignore this shit ! I am a man, I can cope with pain!'
